@@ -1,4 +1,4 @@
-### How to Rum Online Course Registration Using PHP and Mysql
+### How to Run Online Course Registration Using PHP and Mysql
 
 - clone this file in your local sysytem </br>
 - Copy onlinecourse and Put this file inside root directory </br>
